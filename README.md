@@ -17,6 +17,7 @@
 
 ## Menium skill with
 
+<div>
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
@@ -26,6 +27,7 @@
 <img src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
 <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+</div>
 
 # 📊GitHub Stats
 
@@ -34,7 +36,8 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Desplay&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 #
-Im 3-year students in University of Information Technology - 
+
+Im 3-year students in University of Information Technology -
 Vietnam National University, Ho Chi Minh City, a BackEnd Developer, have little skill with Python and C++, menium with Javascripts, future will try to Game Developer
 Desplay, that it nickname mean i am a person who has the ability to design and play games ❤
 
