@@ -40,6 +40,3 @@
 Im 3-year students in University of Information Technology -
 Vietnam National University, Ho Chi Minh City, a BackEnd Developer, have little skill with Python and C++, menium with Javascripts, future will try to Game Developer
 Desplay, that it nickname mean i am a person who has the ability to design and play games ❤
-
-<img src="" />
-<img src="" />
