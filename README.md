@@ -7,25 +7,33 @@
 ## 👩‍💻 Languages
 
 <div>
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
 <img src=" https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 
 </div>
 
 ## Have little skill with
 
+### BACKEND
+
 <div>
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
-<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-<img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
 <img src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" />
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/swagger-%2385EA2D.svg?&style=for-the-badge&logo=swagger&logoColor=black" />
+
+</div>
+
+### FRONTEND
+<div>
+<img src="https://img.shields.io/badge/react-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/pug-%23A86454.svg?&style=for-the-badge&logo=pug&logoColor=white" />
 </div>
 
 # 📊GitHub Stats
@@ -37,6 +45,13 @@
 #
 
 <p>Im 4-year students in University of Information Technology -
-Vietnam National University, Ho Chi Minh City, a BackEnd Developer, have little skill with Python and C++, medium with Javascripts, future will try to Game Developer</p>
-<p> Desplay, that it nickname mean i am a person who has the ability to design and play games ❤
- </p>
+Vietnam National University, Ho Chi Minh City, a BackEnd Developer, have little skill with Python and C++, medium with Javascript and Typescript, future will try to Game Developer</p>
+<p>
+<b> 
+Desplay, that it nickname mean i am a person who has the ability to design and play games ❤
+</b>
+<br>
+<b>
+Desplay -> Design and Play
+</b>
+</p>
